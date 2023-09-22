@@ -6,12 +6,12 @@
   <img height="200" src=https://i.ibb.co/dr5vJ4R/Programing-Wallpapers-Wallpaper-Tag.jpg"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ondrecaliskan&label=Profile%20views&color=0e75b6&style=flat" alt="ondrecaliskan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ondrecaliskan&label=Profile%20views&color=0e75b6&style=flat" alt="ondrecaliskan" /> </p>
 
 <p align="center">👨🏻‍🏭ENGİNEER&JUNIOR DEVELOPER👨‍💻</p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ondrecaliskan" alt="ondrecaliskan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ondrecaliskan" alt="ondrecaliskan" /></a> </p>
 
 - 🌱 I’m currently learning **C#**
 
