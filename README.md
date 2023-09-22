@@ -11,7 +11,7 @@
 <p align="center">👨🏻‍🏭ENGİNEER&JUNIOR DEVELOPER👨‍💻</p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ondrecaliskan" alt="ondrecaliskan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ondrecaliskan=ryo-ma&theme=onedark" alt="ondrecaliskan" /></a> </p>
 
 - 🌱 I’m currently learning **C#**
 
