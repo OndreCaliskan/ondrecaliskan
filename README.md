@@ -4,10 +4,11 @@
 
 <div align="center">
  <img  alt="GIF" src="https://github.com/OndreCaliskan/ondrecaliskan/assets/144846150/f4a4a110-cda0-40f7-8442-f547e6c90b2a" width="500" height="400" />
+ 
 </div>
+<H3 align="center">👨🏻‍🏭ENGİNEER&JUNIOR DEVELOPER👨‍💻</H3>
 
 
-<p align="center">👨🏻‍🏭ENGİNEER&JUNIOR DEVELOPER👨‍💻</p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ondrecaliskan&theme=darkhub" alt="ondrecaliskan" /></a> </p>
