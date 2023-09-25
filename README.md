@@ -9,7 +9,7 @@
 <H3 align="center">👨🏻‍🏭ENGİNEER&JUNIOR DEVELOPER👨‍💻</H3>
 
 
-<h3 align="center"> 🌱 I’m currently learning C#</h3>
+<h3 align="center">🌱 I’m currently learning C#</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
